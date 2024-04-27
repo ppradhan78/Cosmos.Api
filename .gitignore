@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Cosmos.MongoDbAPI/bin/Debug/net6.0
+/src/Cosmos.MongoDbAPI/obj
+/src/Cosmos.MongoDbAPI.Data/bin/Debug/net6.0
+/src/Cosmos.MongoDbAPI.Data/obj
+/src/Cosmos.NoSqlAPI/bin/Debug/net6.0
+/src/Cosmos.NoSqlAPI/obj
+/src/Cosmos.NoSqlAPI.Data/bin/Debug/net6.0
+/src/Cosmos.NoSqlAPI.Data/obj
+/src/Cosmos.TableAPI/bin/Debug/net6.0
+/src/Cosmos.TableAPI/obj
+/src/Cosmos.TableAPI.Data/bin/Debug/net6.0
+/src/Cosmos.TableAPI.Data/obj
+/test/Cosmos.NoSql.Test/bin/Debug/net6.0
+/test/Cosmos.NoSql.Test/obj
